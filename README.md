@@ -8,7 +8,7 @@ I am from [Bochum](https://en.wikipedia.org/wiki/Bochum) in North Rhine-Westphal
 
 My second novel, a truly enormous and whimsical universe ruled by a crazed artificial intelligence, has been in preparation since 2016. Currently I am working on the third plot draft with no end in sight.
 
-To help other writers of fiction I created a calculation spreadsheet that is compatible with several office suites.
+To help other writers of fiction I have created a calculation spreadsheet that is compatible with several office suites.
 
 * [SFCalcSheet](https://github.com/lortordermur/sfcalcsheet)
 
