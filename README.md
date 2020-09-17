@@ -1,6 +1,6 @@
 ![](lortordermur-logo.png)
 
-I am a former coder, Linux geek since 1997 and science fiction novelist. While I am experienced with C++ and a bit of Python, most of the code I write nowadays starts with `#!/bin/sh`.
+A former coder, Linux geek since 1997 and science fiction novelist. While I am experienced with C++ and a bit of Python, most of the code I write nowadays starts with `#!/bin/sh`.
 
 I am from [Bochum](https://en.wikipedia.org/wiki/Bochum) in North Rhine-Westphalia, Germany, a city of culture and knowledge. My first novel, *ASKENDUM*, has been published in April 2014 under the part-pseudonym *Deon R. Murczak*.
 
@@ -19,7 +19,6 @@ I am also running a [Syncthing](https://github.com/syncthing/syncthing) relay se
 As an anime fan I could not help myself but to create a script toolchain for re-muxing the good stuff. Everything in Unix sh.
 
 * [wapamux-tools](https://github.com/lortordermur/wapamux-tools)
-
 
 If you would like to message me privately you can do so [on Reddit](https://www.reddit.com/user/lortordermur).
 
