@@ -2,7 +2,7 @@
 
 I am a former coder, Linux geek since 1997 and science fiction novelist. While I am experienced with C++ and a bit of Python, most of the code I write nowadays starts with `#!/bin/sh`.
 
-I am from Bochum in North Rhine-Westphalia, Germany, a city of culture and knowledge. My first novel, *ASKENDUM*, has been published in April 2014 under the part-pseudonym *Deon R. Murczak*.
+I am from [Bochum](https://en.wikipedia.org/wiki/Bochum) in North Rhine-Westphalia, Germany, a city of culture and knowledge. My first novel, *ASKENDUM*, has been published in April 2014 under the part-pseudonym *Deon R. Murczak*.
 
 * [ASKENDUM website](http://askendum.com) (in German)
 
