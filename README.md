@@ -8,8 +8,6 @@ I am from Bochum in North Rhine-Westphalia, Germany, a city of culture and knowl
 
 My second novel, a truly enormous and whimsical universe ruled by a crazed artificial intelligence, has been in preparation since 2016. Currently I am working on the third plot draft with no end in sight.
 
-![](lortordermur-logo-line.png)
-
 To help other writers of fiction I created a calculation spreadsheet that is compatible with several office suites.
 
 * [SFCalcSheet](https://github.com/lortordermur/sfcalcsheet)
@@ -22,6 +20,7 @@ As an anime fan I could not help myself but to create a script toolchain for re-
 
 * [wapamux-tools](https://github.com/lortordermur/wapamux-tools)
 
-![](lortordermur-logo-line.png)
 
 If you would like to message me privately you can do so [on Reddit](https://www.reddit.com/user/lortordermur).
+
+![](lortordermur-logo-line.png)
