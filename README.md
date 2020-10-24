@@ -1,4 +1,4 @@
-![](lortordermur-logo.png)
+![](logos/lortordermur-logo.png)
 
 A former coder, Linux geek since 1997 and science fiction novelist. While I am experienced with C++ and a bit of Python, most of the code I write nowadays starts with `#!/bin/sh`.
 
@@ -20,6 +20,6 @@ As an anime fan I could not help myself but to create a script toolchain for re-
 
 * **[wapamux-tools](https://github.com/lortordermur/wapamux-tools)**
 
-If you would like to message me privately you can do so **[on Reddit](https://www.reddit.com/user/lortordermur)**.
+If you would like to message me privately you can do so **[on Reddit](https://www.reddit.com/user/lortordermur)**. I also have a [Twitter feed](https://twitter.com/lortordermur).
 
-![](lortordermur-logo-line.png)
+![](logos/lortordermur-logo-line.png)
