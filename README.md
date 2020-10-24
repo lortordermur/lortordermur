@@ -20,6 +20,6 @@ As an anime fan I could not help myself but to create a script toolchain for re-
 
 * **[wapamux-tools](https://github.com/lortordermur/wapamux-tools)**
 
-If you would like to message me privately you can do so **[on Reddit](https://www.reddit.com/user/lortordermur)**. I also have a [Twitter feed](https://twitter.com/lortordermur).
+If you would like to message me privately you can do so **[on Reddit](https://www.reddit.com/user/lortordermur)**. I also have a **[Twitter feed](https://twitter.com/lortordermur)**.
 
 ![](logos/lortordermur-logo-line.png)
