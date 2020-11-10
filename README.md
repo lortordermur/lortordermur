@@ -6,13 +6,13 @@ I am from **[Bochum](https://en.wikipedia.org/wiki/Bochum)** in North Rhine-West
 
 * **[ASKENDUM website](http://askendum.com)** (in German)
 
-My second novel, a truly enormous and whimsical universe ruled by a crazed artificial intelligence, has been in preparation since 2016. Currently I am working on the third plot draft with no end in sight.
+My second novel, a truly enormous and whimsical universe ruled by a crazed artificial intelligence, has been in preparation since 2016. Currently I am finished with the third and final plot draft.
 
 To help other writers of fiction I have created a calculation spreadsheet that is compatible with several office suites.
 
 * **[SFCalcSheet](https://github.com/lortordermur/sfcalcsheet)**
 
-I am also running a **[Syncthing](https://github.com/syncthing/syncthing)** relay server on a Raspberry Pi 2 so I wrote some kind of `top` for it.
+I am also running a **[Syncthing](https://github.com/syncthing/syncthing)** relay server on a Raspberry Pi 3 so I wrote a `top` for it.
 
 * **[strtop](https://github.com/lortordermur/strtop)**
 
