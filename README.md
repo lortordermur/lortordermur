@@ -6,7 +6,7 @@ I am from **[Bochum](https://en.wikipedia.org/wiki/Bochum)** in North Rhine-West
 
 * **[ASKENDUM website](http://askendum.com)** (in German)
 
-My second novel, a truly enormous and whimsical universe ruled by a crazed artificial intelligence, has been in preparation since 2016. Currently I am finished with the third and final plot draft.
+My second novel, a truly enormous and whimsical universe ruled by a crazed artificial intelligence, has been in preparation since 2016. Currently I am writing the rough draft.
 
 To help other writers of fiction I have created a calculation spreadsheet that is compatible with several office suites.
 
