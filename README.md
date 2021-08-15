@@ -6,7 +6,9 @@ I am from **[Bochum](https://en.wikipedia.org/wiki/Bochum)** in North Rhine-West
 
 * **[ASKENDUM website](http://askendum.com)** (in German)
 
-My second novel, a truly enormous and whimsical universe ruled by a crazed artificial intelligence, has been in preparation since 2016. Currently I am writing the rough draft.
+My second novel, a truly enormous and whimsical universe ruled by a crazed artificial intelligence, has been in preparation since 2016. I wrote a rough draft in late 2020/early 2021 but then decided to undertake an interim project first. That novel conveys a simpler and more straightforward story revolving about people who lost their memory to an illness, and seek revenge thereupon.
+
+* My current writer blog: **[Darien R. Muntz](https://www.darienrmuntz.com)** (in German)
 
 To help other writers of fiction I have created a calculation spreadsheet that is compatible with several office suites.
 
