@@ -2,13 +2,11 @@
 
 A former coder, Linux geek since 1997 and science fiction novelist. While I am experienced with C++ and a bit of Python, most of the code I write nowadays starts with `#!/bin/sh`.
 
-I am from **[Bochum](https://en.wikipedia.org/wiki/Bochum)** in North Rhine-Westphalia, Germany, a city of culture and knowledge. My first novel, *ASKENDUM*, has been published in April 2014 under the part-pseudonym *Deon R. Murczak*.
+I am from **[Bochum](https://en.wikipedia.org/wiki/Bochum)** in North Rhine-Westphalia, Germany, a city of culture and knowledge. My first novel has been published in April 2014 under a part-pseudonym.
 
-* **[ASKENDUM website](http://askendum.com)** (in German)
+A second novel, taking place in a truly enormous and whimsical universe ruled by a crazed artificial intelligence, had been in preparation since 2016 and was scheduled for November 2020, however ongoing real-life defamation — for unknown reasons —, stalking and WHOIS doxxing since around mid-2019 have prevented me from completing my life project. All my domains connectable to my real name and my then-writer pseudonym had to be taken offline. However, I managed to develop another novel material during the initial crisis stages. That one conveys a simpler and more straightforward story revolving about people who lost their memory to an illness, and seek revenge thereupon.
 
-My second novel, a truly enormous and whimsical universe ruled by a crazed artificial intelligence, has been in preparation since 2016. I wrote a rough draft in late 2020/early 2021 but then decided to undertake an interim project first. That novel conveys a simpler and more straightforward story revolving about people who lost their memory to an illness, and seek revenge thereupon.
-
-* My current writer blog: **[Darien R. Muntz](https://www.darienrmuntz.com)** (in German)
+Three and a half years later I feel able to program on a consistent level again and have started coding a game engine in Java which could potentially be used to convey the story originally intended to be told by the second novel.
 
 To help other writers of fiction I have created a calculation spreadsheet that is compatible with several office suites.
 
