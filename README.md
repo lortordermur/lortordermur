@@ -6,13 +6,13 @@ I am from **[Bochum](https://en.wikipedia.org/wiki/Bochum)** in North Rhine-West
 
 A second novel, taking place in a truly enormous and whimsical universe ruled by a crazed artificial intelligence, had been in preparation since 2016 and was scheduled for November 2020, however ongoing real-life defamation — for unknown reasons —, stalking and WHOIS doxxing since around mid-2019 have prevented me from completing my life project. All my domains connectable to my real name and my then-writer pseudonym had to be taken offline. However, I managed to develop another novel material during the initial crisis stages. That one conveys a simpler and more straightforward story revolving about people who lost their memory to an illness, and seek revenge thereupon.
 
-Three and a half years later I feel able to program on a consistent level again and have started coding a game engine in Java which could potentially be used to convey the story originally intended to be told by the second novel.
+Three and a half years later I feel able to program on a consistent level again and have started coding an open-world sci-fi RPG game engine in Java which currently resides in a private GitHub repository. A narrative driven game based on the engine could potentially be used to convey the story originally intended to be told by the second novel.
 
 To help other writers of fiction I have created a calculation spreadsheet that is compatible with several office suites.
 
 * **[SFCalcSheet](https://github.com/lortordermur/sfcalcsheet)**
 
-I am also running a **[Syncthing](https://github.com/syncthing/syncthing)** relay server on a Raspberry Pi 4 so I wrote a `top` for it.
+I also run a **[Syncthing](https://github.com/syncthing/syncthing)** relay server on a Raspberry Pi 4 so I wrote a `top` for it.
 
 * **[strtop](https://github.com/lortordermur/strtop)**
 
