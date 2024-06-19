@@ -12,7 +12,7 @@ To help other writers of fiction I have created a calculation spreadsheet that i
 
 * **[SFCalcSheet](https://github.com/lortordermur/sfcalcsheet)**
 
-I also run a **[Syncthing](https://github.com/syncthing/syncthing)** relay server on a Raspberry Pi 4 so I wrote a `top` for it.
+I also run a **[Syncthing](https://github.com/syncthing/syncthing)** relay server on a Raspberry Pi 5 so I wrote a `top` for it.
 
 * **[strtop](https://github.com/lortordermur/strtop)**
 
